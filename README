@@ -1,6 +1,9 @@
 If you want to try to make some of these tests pass:
 
 1. git clone git://github.com/kamarcum/java-101.git
+1a. If you aren't using git, it may be easier to
+    svn checkout http://svn.github.com/kamarcum/java-101.git
+    with your subversion client of choice
 2. open eclipse
 3. file > import > general > existing projects into workspace > select the directory from step 1
 4. find a set of tests that look interesting to you
